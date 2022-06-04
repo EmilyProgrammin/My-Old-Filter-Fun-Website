@@ -1,5 +1,6 @@
 var img;
 var imgcanvas;
+
 //loadImage() is finished
 function loadImage() {
   imgcanvas = document.getElementById("can");
